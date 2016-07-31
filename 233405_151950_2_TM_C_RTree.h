@@ -1,10 +1,4 @@
 
-//
-// This is a modified version of the R Tree Standard implementation header file (available at GIT HUB)
-// The modification is mainly for its adatation for the PSTQ Implementation.
-//
-// Original file Extracted from GIT HUB on 10/11/2014
-// Modified on: 10/11/2014
 
 #ifndef RTREE_H
 #define RTREE_H
